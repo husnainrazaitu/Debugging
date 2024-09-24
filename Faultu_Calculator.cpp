@@ -52,7 +52,7 @@ int operation()
 }
 
 
-int calculation(int j, int k, char op)
+int calculation(int j,  char op, int k)
 {
     int answer;
     if (k != 65536)
